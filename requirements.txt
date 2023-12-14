@@ -1,0 +1,8 @@
+certifi>=2017.4.17
+urllib3<3,>=1.21.1
+idna<4,>=2.5
+charset-normalizer<4,>=2
+six>=1.9
+setuptools
+requests[security]>=2.0
+yandex_tracker_client
