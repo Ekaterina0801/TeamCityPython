@@ -11,4 +11,4 @@ def is_prime(num, test_count):
 
     return True
 
-print(is_prime(13, 10))
+print(is_prime(13, 10)
